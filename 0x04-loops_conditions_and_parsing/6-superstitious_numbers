@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # This script displays different messages based on specific numbers in the loop
 
 # Initialize counter
